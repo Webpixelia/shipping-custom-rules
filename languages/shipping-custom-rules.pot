@@ -1,0 +1,80 @@
+# Copyright (C) 2023 Webpixelia
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Shipping Custom Rules for WooCommerce 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/shipping-custom-rules\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-09T18:11:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: shipping-custom-rules\n"
+
+#. Plugin Name of the plugin
+msgid "Shipping Custom Rules for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/Webpixelia"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add specific rules for shipping with WooCommerce according flat weight, fixed price and kilo price"
+msgstr ""
+
+#. Author of the plugin
+msgid "Webpixelia"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://webpixelia.com/"
+msgstr ""
+
+#: shipping-custom-rules.php:29
+msgid "WooCommerce is not active. Please install and/or activate WooCommerce to use the plugin Shipping custom rules."
+msgstr ""
+
+#: shipping-custom-rules.php:42
+#: shipping-custom-rules.php:44
+msgid "Shipping custom rules"
+msgstr ""
+
+#: shipping-custom-rules.php:43
+msgid "Shipping method to be used with custom weight and price: fixed price plus price per kilo"
+msgstr ""
+
+#: shipping-custom-rules.php:75
+msgid "Method Title"
+msgstr ""
+
+#: shipping-custom-rules.php:77
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: shipping-custom-rules.php:82
+msgid "Price of extra kilo"
+msgstr ""
+
+#: shipping-custom-rules.php:85
+msgid "Enter a price for all extra kilo (kg)"
+msgstr ""
+
+#: shipping-custom-rules.php:90
+msgid "Flat weight"
+msgstr ""
+
+#: shipping-custom-rules.php:92
+msgid "Enter a flat weight"
+msgstr ""
+
+#: shipping-custom-rules.php:97
+msgid "Price for flat weight"
+msgstr ""
+
+#: shipping-custom-rules.php:100
+msgid "Enter a fixed price for flat weight"
+msgstr ""
