@@ -52,6 +52,7 @@ Go to WooCommerce Settings then Shipping. Choose the shipping zone concerned the
 * Compatibility version: WordPress 6.4 and WooCommerce 8.2
 * Added FAQ in readme.txt file
 * Fixed bugs
+* Tested up with PHP 8.2
 
 = 1.0.4 =
 * Added readme.txt file
