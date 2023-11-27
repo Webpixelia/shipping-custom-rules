@@ -1,7 +1,8 @@
 === Shipping custom rules for WooCommerce ===
 Contributors: marocweb
+Donate link: https://buymeacoffee.com/webpixelia
 Tags: ecommerce, woocommerce, shipping, woocommerce shipping, weight-based shipping, table rate shipping, weight, subtotal, country, shipping classes
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 Requires at least: 5.0
 Tested up to: 6.4
 Requires PHP: 7.1
@@ -47,6 +48,12 @@ Go to WooCommerce Settings then Shipping. Choose the shipping zone concerned the
 2. Settings shiipping custom rules method
 
 == Changelog ==
+= 1.0.6 =
+* Tested with WooCommerce 8.3
+* Added support for WooCommerce High-Performance Order Storage.
+* Fixed Deprecated: Creation of dynamic property
+* Other minor bug fixes
+
 = 1.0.5 =
 * Renamed plugin and fields label
 * Compatibility version: WordPress 6.4 and WooCommerce 8.2

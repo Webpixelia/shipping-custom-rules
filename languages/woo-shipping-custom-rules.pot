@@ -1,15 +1,15 @@
 # Copyright (C) 2023 Webpixelia
-# This file is distributed under the GPLv2.
+# This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Shipping Custom Rules for WooCommerce 1.0.5\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/shipping-custom-rules\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: Shipping Custom Rules for WooCommerce 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-shipping-custom-rules\n"
+"Last-Translator: Jonathan Webpixelia <contact@webpixelia.com>\n"
+"Language-Team: Jonathan Webpixelia <contact@webpixelia.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-11-09T18:11:34+00:00\n"
+"POT-Creation-Date: 2023-11-27T16:40:26+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.8.1\n"
 "X-Domain: shipping-custom-rules\n"
@@ -34,47 +34,60 @@ msgstr ""
 msgid "https://webpixelia.com/"
 msgstr ""
 
-#: shipping-custom-rules.php:29
+#: shipping-custom-rules.php:31
 msgid "WooCommerce is not active. Please install and/or activate WooCommerce to use the plugin Shipping custom rules."
 msgstr ""
 
-#: shipping-custom-rules.php:42
-#: shipping-custom-rules.php:44
+#: shipping-custom-rules.php:64
+#: shipping-custom-rules.php:66
 msgid "Shipping custom rules"
 msgstr ""
 
-#: shipping-custom-rules.php:43
+#: shipping-custom-rules.php:65
 msgid "Shipping method to be used with custom weight and price: fixed price plus price per kilo"
 msgstr ""
 
-#: shipping-custom-rules.php:75
+#: shipping-custom-rules.php:108
 msgid "Method Title"
 msgstr ""
 
-#: shipping-custom-rules.php:77
+#: shipping-custom-rules.php:110
 msgid "This controls the title which the user sees during checkout."
 msgstr ""
 
-#: shipping-custom-rules.php:82
+#: shipping-custom-rules.php:115
+msgid "Tax status"
+msgstr ""
+
+#: shipping-custom-rules.php:120
+msgid "Taxable"
+msgstr ""
+
+#: shipping-custom-rules.php:121
+msgctxt "Tax status"
+msgid "None"
+msgstr ""
+
+#: shipping-custom-rules.php:125
 msgid "Price of extra kilo"
 msgstr ""
 
-#: shipping-custom-rules.php:85
+#: shipping-custom-rules.php:128
 msgid "Enter a price for all extra kilo (kg)"
 msgstr ""
 
-#: shipping-custom-rules.php:90
+#: shipping-custom-rules.php:133
 msgid "Flat weight"
 msgstr ""
 
-#: shipping-custom-rules.php:92
+#: shipping-custom-rules.php:135
 msgid "Enter a flat weight"
 msgstr ""
 
-#: shipping-custom-rules.php:97
+#: shipping-custom-rules.php:140
 msgid "Price for flat weight"
 msgstr ""
 
-#: shipping-custom-rules.php:100
+#: shipping-custom-rules.php:143
 msgid "Enter a fixed price for flat weight"
 msgstr ""
